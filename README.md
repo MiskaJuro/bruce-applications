@@ -1,6 +1,7 @@
 ![Bruce Firmware Banner](https://github.com/BruceDevices/firmware/raw/main/media/pictures/bruce_banner.jpg)
 # Applications for *Bruce Firmware*
 My flawless, amazing and unique *(← not really)* applications for the [Bruce Firmware](https://github.com/BruceDevices/firmware).
+These applications can be downloaded and installed on devices running Bruce firmware via the App Store.
 
 ##  1. Morse Code
 *Converts text to morse code (with audio).*
